@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Math-Quiz-Game\\x64\\Debug\\Math-Quiz-Game.obj",
+            "outputs": [
+                "Math-Quiz-Game\\x64\\Debug\\Math-Quiz-Game.cpp.obj.dt.module.json",
+                "Math-Quiz-Game\\x64\\Debug\\Math-Quiz-Game.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
